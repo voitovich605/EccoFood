@@ -1,0 +1,38 @@
+body{
+    background-color:white ;
+}
+/* .products{
+    display: flex;
+   text-align: center; */
+
+
+
+
+
+.products-centr-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    flex-basis: 20%;
+    flex-wrap: wrap;
+}
+
+.products-centr-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    flex-basis: 20%;
+    flex-wrap: wrap;
+    
+}
+
+.products-centr-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-basis: 20%;
+    
+}
