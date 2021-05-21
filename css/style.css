@@ -1,4 +1,4 @@
-body{
+/*body{
     background-color:white ;
 }
 /* .products{
@@ -9,7 +9,7 @@ body{
 
 
 
-.products-centr-1{
+/*.products-centr-1{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -17,8 +17,8 @@ body{
     flex-basis: 20%;
     flex-wrap: wrap;
 }
-
-.products-centr-2{
+*/
+/*.products-centr-2{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -26,13 +26,16 @@ body{
     flex-basis: 20%;
     flex-wrap: wrap;
     
-}
+}*/
 
-.products-centr-3{
+/*.products-centr-3{
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     flex-basis: 20%;
     
+}*/
+a{
+    color: red;
 }
